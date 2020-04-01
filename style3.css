@@ -1,0 +1,89 @@
+
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    background-repeat: no-repeat;
+    min-height: 100%;
+    padding-bottom: 20px;
+
+    
+    
+}
+header{
+    background-color: rgb(58, 188, 192);
+    height: 5em;
+}
+img{
+    margin-left: 20px;
+    margin-top: 3px;
+    
+}
+.head-tag{
+    float:right;
+    margin-top: 30px;
+    margin-right: 200px;
+}
+.head-tag a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 8px;
+    margin-right: 18px;
+
+}
+.head-tag a:hover{
+    background-color: olivedrab;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+p{
+    text-align: left;
+    font-weight: bold;
+    padding-left: 10px;
+}
+h5{
+    text-align: center;
+}
+.card{
+    background-color:rgba(255,255,255,0.2);
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container h5{
+    color: black;
+    padding-left: 100px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.img-fluid{
+    border:3px solid black;
+    
+   
+}
+footer{
+    position:fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: rgb(58, 188, 192);
+        height: 20px; 
+        text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: auto;
+    }
+        

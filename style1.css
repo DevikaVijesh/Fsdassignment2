@@ -1,0 +1,30 @@
+#branding h2{
+    text-align: center;
+    color: darkblue;
+    font-size: 20pt;
+    padding-top: 20px;
+}
+form{
+    background:#ffffff;
+}
+.form-group{
+    text-align: left;
+    padding-top: 10px;
+    color:darkblue;
+    margin-left: 20px;
+    width:30%;
+
+}
+.form-group form-check{
+    margin-left:50px;
+}
+.form-control{
+    text-align: left;
+}
+
+.button1{
+    margin-left: 20px;
+    color:whitesmoke;
+    background-color: darkblue;
+    width: 2cm;
+}

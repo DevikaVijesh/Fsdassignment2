@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: auto;
+}
+.form-group{
+    color: black;
+    font-weight: bold;
+}
+.form-container{
+    position:absolute;
+    top: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px black;
+
+    
+}
+.formcontainer{
+    position: relative;
+    padding:30px;
+    border-radius: 10px;
+    box-shadow: black 0px 0px 10px 0px;
+}
+.button1{
+    background-color:rgb(116, 238, 116);
+    color: black;
+}
